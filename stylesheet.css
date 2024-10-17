@@ -1,4 +1,3 @@
-/* Apply styles to an HTML tag */
 body {
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
@@ -6,28 +5,24 @@ body {
     padding: 0;
   }
   
-  /* Class for sections */
-  .section {
+  .box {
     padding: 20px;
     margin: 10px;
-    background-color: #e0f7fa;
-    border-radius: 5px; /* Box model property: border radius */
-    border: 2px solid #00838f; /* Box model property: border */
+    background-color: #72c7ff;
+    border-radius: 5px; 
+    border: 2px solid #4ab7ff; 
   }
   
-  /* Apply the class to multiple elements */
   .image-container {
     padding: 20px;
     margin: 10px;
     background-color: #e8eaf6;
   }
   
-  /* ID for the introduction section */
-  #intro h1 {
-    color: #004d40;
+  #hi h1 {
+    color: #000000;
   }
-  
-  /* Change color of links on hover */
+
   a:hover {
     color: #0288d1;
     text-decoration: underline;
