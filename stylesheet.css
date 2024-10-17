@@ -5,7 +5,7 @@ body {
     padding: 0;
   }
   
-  .box {
+  .section {
     padding: 20px;
     margin: 10px;
     background-color: #72c7ff;
@@ -19,7 +19,7 @@ body {
     background-color: #e8eaf6;
   }
   
-  #hi h1 {
+  #intro h1 {
     color: #000000;
   }
 
